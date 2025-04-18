@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # Colorado Election Json
 
-This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, small rook adjacencies (under 30.5 m) were changed to queen adjacencies.
+This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, small rook adjacencies (under 30.5 m) were changed to queen adjacencies.  We did *not* nest precincts inside of counties, as that resulted in an error (which we believe will be able to be fixed with the next maup update).
 
 # **Sources**
 
